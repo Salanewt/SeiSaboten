@@ -11,7 +11,8 @@ As of v0.1 (new versioning criteria), this tool can edit:
 - Armour data
   - Same
 - Shop data
-- Sprite data (partially - palettes)
+- Sprite data
+  - Partially => Palettes only; mostly a viewer otherwise
 
 I have also disabled:
 - Randomiser stuff, because I am in the process of reorganising the code and cleaning things up
@@ -36,19 +37,19 @@ Text Editing:
 
 Palette Editing:
 
-![Palette_Editing](https://www.dropbox.com/scl/fi/lbscw1sld8rdpit2u6f0s/Sword_of_Mana_Heroine_Palette.png)
+![Palette_Editing](https://i.imgur.com/G5MkO33.png)
 
 SeiSaboten GUI 1:
 
-![Editor GUI_Monsters](https://www.dropbox.com/scl/fi/p3zct8glujxugqfambe15/SeiSaboten_monsters.png)
+![Editor GUI_Monsters](https://i.imgur.com/BFScCBj.png)
 
 SeiSaboten GUI 2:
 
-![Editor GUI_Shops](https://www.dropbox.com/scl/fi/hihjgj6gkggeig7hvi54q/SeiSaboten_itemsShop.png)
+![Editor GUI_Shops](https://i.imgur.com/R2t0hNL.png)
 
 SeiSaboten GUI 3:
 
-![Editor GUI_Sprites](https://www.dropbox.com/scl/fi/m10wyzpkma5f1kf06ggsg/SeiSaboten_spritePalette.png)
+![Editor GUI_Sprites](https://i.imgur.com/SDsGv6g.png)
 
 Edit of Rabite:
 
