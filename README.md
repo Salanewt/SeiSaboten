@@ -29,6 +29,7 @@ Credits:
 
 Special thanks:
 - Fellow Discord user and hacking hobbyist Revier, for contributing to research efforts.
+
 Notes from the original Readme, including new screenshots:
 
 Dialog can be exported to JSON, in order to edit in an external program. It can then be imported back.
