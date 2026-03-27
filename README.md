@@ -36,19 +36,19 @@ Text Editing:
 
 Palette Editing:
 
-![Palette_Editing](https://www.dropbox.com/scl/fi/lbscw1sld8rdpit2u6f0s/Sword_of_Mana_Heroine_Palette.png?rlkey=b074qihih1awizv1gff59dmqs&st=udll1ck3&dl=0)
+![Palette_Editing](https://www.dropbox.com/scl/fi/lbscw1sld8rdpit2u6f0s/Sword_of_Mana_Heroine_Palette.png)
 
 SeiSaboten GUI 1:
 
-![Editor GUI_Monsters](https://www.dropbox.com/scl/fi/p3zct8glujxugqfambe15/SeiSaboten_monsters.png?rlkey=3mfflxcby8kk0wlvm9hta540i&st=eu16qb49&dl=0)
+![Editor GUI_Monsters](https://www.dropbox.com/scl/fi/p3zct8glujxugqfambe15/SeiSaboten_monsters.png)
 
 SeiSaboten GUI 2:
 
-![Editor GUI_Shops](https://www.dropbox.com/scl/fi/hihjgj6gkggeig7hvi54q/SeiSaboten_itemsShop.png?rlkey=bri2pu3xy28tl87lgbvp8h9a2&st=v2aidqfs&dl=0)
+![Editor GUI_Shops](https://www.dropbox.com/scl/fi/hihjgj6gkggeig7hvi54q/SeiSaboten_itemsShop.png)
 
 SeiSaboten GUI 3:
 
-![Editor GUI_Sprites](https://www.dropbox.com/scl/fi/m10wyzpkma5f1kf06ggsg/SeiSaboten_spritePalette.png?rlkey=vpmn06crm48pydxaw53m4m0xu&st=69evtsrd&dl=0)
+![Editor GUI_Sprites](https://www.dropbox.com/scl/fi/m10wyzpkma5f1kf06ggsg/SeiSaboten_spritePalette.png)
 
 Edit of Rabite:
 
