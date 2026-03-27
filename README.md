@@ -4,20 +4,19 @@ A ROM editor for the GBA game Sword of Mana/新約 聖剣伝説.
 
 As of v0.1 (new versioning criteria), this tool can edit:
 - Monster data (mostly)
+  - Still missing some known and unknown variables, including the "event ID" that triggers on a successful kill
 - Item data (partially)
+  - Limited to name, description, price, and type
 - Weapon data
-  - Except for one possibly unused variable and/or buffer space, but the getter/setter for it is 
-    implemented; functionality can be incorporated pending further research
+  - Except for one possibly unused variable and/or buffer space, but the getter/setter for it is implemented; functionality can be incorporated pending further research
 - Armour data
   - Same
 - Shop data
 - Sprite data
-  - Partially => Palettes only; mostly a viewer otherwise
+  - Partially => Palettes only; mostly a data/address viewer otherwise
 
 I have also disabled:
-- Randomiser stuff, because I am in the process of reorganising the code and cleaning things up
-  a bit, and this is lower priority for me until more functionality has been implemented. Most of
-  the original code is still intact, albeit in different files.
+- Randomiser stuff, because I am in the process of reorganising the code and cleaning things up a bit, and this is lower priority for me until more functionality has been implemented. Most of the original code is still intact, albeit in different files.
 
 Only supports editing the Japanese version and the NA version at the moment, and JP support is
 behind the NA version. The European versions (the 3 of them!) are not currently supported.
