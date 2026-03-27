@@ -22,7 +22,13 @@ I have also disabled:
 Only supports editing the Japanese version and the NA version at the moment, and JP support is
 behind the NA version. The European versions (the 3 of them!) are not currently supported.
 
+Credits:
+- Salanewt: Thank you for checking this out! 
+- Joshua Miller - The original SeiSaboten creator: https://jtm.gg
+- Subrosian - Reportedly fixed bugs.
 
+Special thanks:
+- Fellow Discord user and hacking hobbyist Revier, for contributing to research efforts.
 Notes from the original Readme, including new screenshots:
 
 Dialog can be exported to JSON, in order to edit in an external program. It can then be imported back.
